@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[witofthestaircase]]></title>
+        <description><![CDATA[witofthestaircase]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 12 May 2016 00:12:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>esprit d’escalier</p>]]></description>
+            <link>undefinedesprit-descalier/index.html</link>
+            <guid isPermaLink="false">12aa3661-f976-4220-abba-9d3a75b1847f</guid>
+            <pubDate>Thu, 12 May 2016 00:12:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
