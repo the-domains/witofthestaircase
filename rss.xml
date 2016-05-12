@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[witofthestaircase]]></title>
         <description><![CDATA[witofthestaircase]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/witofthestaircase/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 00:12:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 May 2016 00:20:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/witofthestaircase/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>esprit d’escalier</p>]]></description>
-            <link>undefinedesprit-descalier/index.html</link>
+            <link>https://thegrid.ai/witofthestaircase/esprit-descalier/index.html</link>
             <guid isPermaLink="false">12aa3661-f976-4220-abba-9d3a75b1847f</guid>
-            <pubDate>Thu, 12 May 2016 00:12:51 GMT</pubDate>
+            <pubDate>Thu, 12 May 2016 00:20:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
