@@ -1,6 +1,6 @@
 name: witofthestaircase
 favicon: null
-layout_spectrum: 0.5084802014753222
+layout_spectrum: 0.26873
 typography_spectrum: 0.8748118081130087
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.8133705412037671
+  brandStrength: 0.875
   lightness: 0.29728605411946774
-  saturation: 0.03303692163899541
-  rhythmicContrast: 0.7078699148260057
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
