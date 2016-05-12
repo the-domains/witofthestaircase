@@ -5,10 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-12T01:31:32.037Z'
-dateModified: '2016-05-12T01:29:23.202Z'
+datePublished: '2016-05-12T01:32:30.351Z'
+dateModified: '2016-05-12T01:31:41.099Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-12-metallica-chicago-aragon-ballroom-february-3-1985.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: true
-sourcePath: _posts/2016-05-12-metallica-chicago-aragon-ballroom-february-3-1985.md
 url: metallica-chicago-aragon-ballroom-february-3-1985/index.html
 _type: Article
 
