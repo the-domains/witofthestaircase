@@ -4,11 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'esprit d’escalier '
-datePublished: '2016-05-12T00:12:51.865Z'
-dateModified: '2016-05-12T00:12:12.197Z'
+description: esprit d’escalier
+datePublished: '2016-05-12T00:20:07.466Z'
+dateModified: '2016-05-12T00:20:06.339Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-12-esprit-descalier.md
 authors: []
 publisher:
   name: null
@@ -16,14 +17,13 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-12-esprit-descalier.md
 url: esprit-descalier/index.html
 _type: Article
 
 ---
 _esprit d'escalier_
 
-the common experience that one's happiest retorts occur to one only when the chance of uttering them is gone, the door is closed, and one's feet are on the staircase. 
+the common experience that one's sharpest retorts occur to one only when the chance of uttering them is gone, the door is closed, and one's feet are halfway up the staircase. 
 
 _spirit of the staircase_
 
